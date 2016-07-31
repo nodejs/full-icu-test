@@ -1,6 +1,6 @@
 {
   "name": "full-icu-test",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Test for the full-icu module",
   "main": "index.js",
   "scripts": {
