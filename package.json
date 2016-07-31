@@ -1,0 +1,17 @@
+{
+  "name": "full-icu-test",
+  "version": "0.0.1",
+  "description": "Test for the full-icu module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --icu-data-dir=node_modules/full-icu ./test.js"
+  },
+  "keywords": [
+    "i18n"
+  ],
+  "author": "Steven R. Loomis <srloomis@us.ibm.com> (https://srl295.github.io)",
+  "license": "Unicode-TOU",
+  "dependencies": {
+    "full-icu": "^1.0.3"
+  }
+}
