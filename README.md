@@ -9,6 +9,8 @@ to run test:
 If all goes well, it should print success. 
 If all doesn't go well, it will complain.
 
+Problems? File bugs under [unicode-org/full-icu-npm](https://github.com/unicode-org/full-icu-npm/issues) which is the home of the `full-icu` package.
+
 
 MIRROR
 ===
