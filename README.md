@@ -1,27 +1,32 @@
-TEST of full ICU data
-###
+# full-icu-test
 
-This is a test of the [full-icu](https://npmjs.com/package/full-icu) package.
+TEST of the full ICU data
 
-to run test:
+## About
 
-	npm install
-	npm run test
+This module tests the [full-icu](https://npmjs.com/package/full-icu) package.
 
-If all goes well, it should print success.
-If all doesn't go well, it will complain.
+### Installation
 
-Problems? File bugs under [unicode-org/full-icu-npm](https://github.com/unicode-org/full-icu-npm/issues) which is the home of the `full-icu` package.
+`npm install full-icu-test`
 
-LICENSE
-===
+### Use
+`npm run test`
 
-- Usage of data and software is governed by the [Unicode Terms of Use](http://www.unicode.org/copyright.html)
-a copy of which is included as [LICENSE](./LICENSE)
+If the test passes, it will log `Congrats, you have the Intl object.` to the console.
 
-COPYRIGHT
-===
+If the test fails, it will log pertinent error messages.
 
-Copyright &copy; 1991-2021 Unicode, Inc.
-All rights reserved.
-[Terms of use](http://www.unicode.org/copyright.html)
+## Contributing
+
+Please see our [`CONTRIBUTING`](./CONTRIBUTING.md) guide if you'd like to help with this initiative!
+
+## LICENSE
+
+This repository is subject to the terms under the [Node.js license](https://github.com/nodejs/node/blob/master/LICENSE). Some usage of this data is governed by the [Unicode Terms of Use](http://www.unicode.org/copyright.html), which is included in the [unicode-license.txt](./unicode-license.txt)
+
+## COPYRIGHT
+
+Copyright &copy; 1991-2021 Unicode, Inc. and Node.js contributors. All rights reserved.
+
+[Unicode terms of use](http://www.unicode.org/copyright.html)
