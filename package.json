@@ -12,7 +12,7 @@
   "author": "Steven R. Loomis <srl295@gmail.com>",
   "license": "Unicode-DFS-2016",
   "dependencies": {
-    "full-icu": "^1.3.4"
+    "full-icu": "^1.4.0"
   },
   "repository": {
     "type": "git",
